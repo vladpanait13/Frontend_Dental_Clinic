@@ -1,0 +1,57 @@
+{
+  "buttons": {
+    "save": "Vista",
+    "cancel": "Hætta við",
+    "confirm": "Staðfesta",
+    "submit": "Senda",
+    "back": "Til baka"
+  },
+  "messages": {
+    "loading": "Hleður...",
+    "error": "Villa kom upp",
+    "success": "Aðgerð tókst",
+    "confirmAction": "Ertu viss?"
+  },
+  "errors": {
+    "generic": "Eitthvað fór úrskeiðis",
+    "networkError": "Netvilla kom upp",
+    "unauthorized": "Óheimil aðgerð",
+    "sessionExpired": "Seta útrunnin",
+    "required": "Þetta svæði er skylda"
+  },
+  "footer": {
+    "description": "Bókaðu tíma hjá bestu tannlæknunum á þínu svæði.",
+    "quickLinks": "Flýtileiðir",
+    "findDentist": "Finna tannlækni",
+    "contactUs": "Hafðu samband",
+    "aboutUs": "Um okkur",
+    "privacyPolicy": "Persónuverndarstefna",
+    "account": "Reikningur",
+    "login": "Innskráning",
+    "signUp": "Nýskráning",
+    "myAccount": "Minn reikningur",
+    "myAppointments": "Mínir tímar",
+    "contact": "Tengiliður",
+    "email": "Netfang",
+    "phone": "Sími",
+    "termsOfService": "Þjónustuskilmálar",
+    "cookiePolicy": "Kökustefna",
+    "copyright": "© {{year}} Dental Logo. Öll réttindi áskilin."
+  },
+  "search": {
+    "location": "Staðsetning",
+    "selectDate": "Veldu dagsetningu"
+  },
+  "dentistList": {
+    "noMatch": "Engir tannlæknar fundust sem passa við þín skilyrði"
+  },
+  "navigation": {
+    "myAccount": "Minn reikningur",
+    "logout": "Skrá út",
+    "home": "Heim",
+    "login": "Innskráning",
+    "signUp": "Nýskráning",
+    "bookAppointment": "Bókaðu tíma",
+    "book": "Bókaðu"
+  }
+}

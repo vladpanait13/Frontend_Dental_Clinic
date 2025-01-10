@@ -1,0 +1,57 @@
+{
+  "buttons": {
+    "save": "Lagre",
+    "cancel": "Avbryt",
+    "confirm": "Bekreft",
+    "submit": "Send inn",
+    "back": "Tilbake"
+  },
+  "messages": {
+    "loading": "Laster...",
+    "error": "En feil oppstod",
+    "success": "Operasjonen var vellykket",
+    "confirmAction": "Er du sikker?"
+  },
+  "errors": {
+    "generic": "Noe gikk galt",
+    "networkError": "Nettverksfeil oppstod",
+    "unauthorized": "Uautorisert tilgang",
+    "sessionExpired": "Økten er utløpt",
+    "required": "Dette feltet er påkrevd"
+  },
+  "footer": {
+    "description": "Bestill avtaler med de beste tannlegene i ditt område.",
+    "quickLinks": "Hurtiglenker",
+    "findDentist": "Finn en tannlege",
+    "contactUs": "Kontakt oss",
+    "aboutUs": "Om oss",
+    "privacyPolicy": "Personvernregler",
+    "account": "Konto",
+    "login": "Logg inn",
+    "signUp": "Registrer deg",
+    "myAccount": "Min konto",
+    "myAppointments": "Mine avtaler",
+    "contact": "Kontakt",
+    "email": "E-post",
+    "phone": "Telefon",
+    "termsOfService": "Bruksvilkår",
+    "cookiePolicy": "Informasjonskapselpolicy",
+    "copyright": "© {{year}} Dental Logo. Alle rettigheter reservert."
+  },
+  "search": {
+    "location": "Plassering",
+    "selectDate": "Velg dato"
+  },
+  "dentistList": {
+    "noMatch": "Ingen tannleger funnet som samsvarer med kriteriene dine"
+  },
+  "navigation": {
+    "myAccount": "Min konto",
+    "logout": "Logg ut",
+    "home": "Hjem",
+    "login": "Logg inn",
+    "signUp": "Registrer deg",
+    "bookAppointment": "Bestill time",
+    "book": "Bestill"
+  }
+}
